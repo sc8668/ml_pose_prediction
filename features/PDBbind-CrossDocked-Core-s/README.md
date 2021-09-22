@@ -12,9 +12,9 @@ prime-mmgbsa_casfcrossdocks.csv.bz2  | the scores of Prime-MM/GBSA ("r_psp_MMGBS
 xscore_casfcrossdocks.csv | the scores of X-Score ("average_score" is used as the final scores).
 NNscore2_casfcrossdocks.csv.bz2 | the features of NNscore ("vina_affinity","vina_gauss_1","vina_gauss_2","vina_repulsion","vina_hydrophobic",and "vina_hydrogen"  are used as Vina features, and "vina_affinity" is used as the Vina score).
 ---- | -----
-e3fp_casfcrossdockg.csv.bz2  | the features of E3FP.
-ecif_casfcrossdockg.csv.bz2 | the features of ECIF.
-elem_casfcrossdockg.csv.bz2 | the features of ELEM.
+e3fp_casfcrossdocks.csv.bz2  | the features of E3FP.
+ecif_casfcrossdocks.csv.bz2 | the features of ECIF.
+elem_casfcrossdocks.csv.bz2 | the features of ELEM.
 
 
 
