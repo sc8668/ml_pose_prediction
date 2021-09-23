@@ -13,6 +13,7 @@
 folders  | descriptions  | 
 ---- | ----- |
 features  | The feature files utilized in this study. |
+dataset  | The datasets utilized in this study. |
 models  | Some models trained in this study. |
 scripts  | Some representative scripts. |
 example  | A demo to use trained models to predict the binding poses of the in-house ligands. |
