@@ -4,10 +4,12 @@
 <img src="https://github.com/sc8668/ml_pose_prediction/blob/main/For_Table_of_Contents_Use_Only.jpg" width="500px" height="500px">
 </div>     
                    
-
-    
-    
    
+  
+  
+  
+  
+  
 folders  | descriptions  | 
 ---- | ----- |
 features  | The feature files utilized in this study. |
