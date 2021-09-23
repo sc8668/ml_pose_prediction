@@ -1,4 +1,4 @@
-## Some examples to run the scripts (see test.sh)
+## Some examples to construct and validate the models. (see test.sh)
 
 ### 1. random splitting
 ` ` `
