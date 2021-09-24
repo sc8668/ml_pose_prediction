@@ -1,4 +1,5 @@
 ###  The information of the datasets utilized in this study.
+The datasets can be available at https://zenodo.org/record/5525936. 
 <br/>  
 <br/>	    
 <br/>	    
@@ -23,7 +24,7 @@
 <sup>**c**</sup>: The set eliminates the cross-native poses.      
 <br/> 
 <br/>  
-*	#### PDBbind-ReDocked dataset.
+*	#### PDBbind-ReDocked dataset.  (https://zenodo.org/record/5525936/files/PDBbind-CrossDocked-Core.tar.bz2)
 Each PDB has its own directory.    
 e.g.       
 1a28/  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the directory for "1a28".        
@@ -35,7 +36,7 @@ e.g.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; each pose has been moved into its individual directory (i.e. 1_0000~1_0019)     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "1_000x" is the rescoring results by Surflex-Dock (the ligand will be minimized when scoring).     
 <br/> 					
-*	#### PDBbind-CrossDocked-Core dataset.
+*	#### PDBbind-CrossDocked-Core dataset.    (https://zenodo.org/record/5525936/files/PDBbind-CrossDocked-Core.tar.bz2)     
 This set has two directories, one for protein and ligand (**dataset/**), and the other for docking results(**docking/**).                
 e.g.       
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**dataset/** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; here the complexes with the same cluster are in the same directory.             
@@ -52,7 +53,7 @@ e.g.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /1_3ui7_3uuo_vina/     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the directory for Autodock Vina docking results.             
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; each pose has been moved to its individual directory (i.e. 1_0001\~1_0020)		             
 <br/> 									
-*	#### PDBbind-CrossDocked-Refined dataset.      
+*	#### PDBbind-CrossDocked-Refined dataset.    (https://zenodo.org/record/5525936/files/PDBbind-CrossDocked-Refined.tar.bz2)     
 This set also has two directories, one for protein and ligand (**dataset/**), and the other for docking results(**docking/**).         
 e.g.       
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**dataset/** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; here the complexes with the same cluster are in the same directory.     
