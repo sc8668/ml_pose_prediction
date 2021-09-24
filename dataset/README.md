@@ -1,8 +1,6 @@
 ###  The information of the datasets utilized in this study.
 The datasets can be available at https://zenodo.org/record/5525936. 
-<br/>  
-<br/>	    
-<br/>	    
+<br/>      
 	    
 	 
                                   Re-docked poses                                   Cross-docked poses
